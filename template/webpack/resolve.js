@@ -10,5 +10,6 @@ module.exports = {
   // 目录别名
   alias: {
     '@': resolve('./src'),
+    'antd-mobile': 'antd-mobile/2x',
   },
 };
